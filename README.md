@@ -1,1 +1,1 @@
-# trueskill_talk
+# ratings_talk
